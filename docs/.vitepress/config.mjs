@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/cap-jardinier-paysagiste/',
   title: "CAPA Jardinier-paysagiste",
   description: "2025-2026",
   themeConfig: {
